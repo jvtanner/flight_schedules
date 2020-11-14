@@ -1,0 +1,6 @@
+Denver den,3,100
+Atlanta atl,10,200
+Denver den,13,99
+Atlanta atl,20,201
+Denver den,23,98
+Atlanta atl,30,202
